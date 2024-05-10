@@ -31,7 +31,7 @@ Placing ships: <br/>
 <img src="https://i.imgur.com/NvJs7Ox.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Full board after all ships are placed. Ships are depicted with '#':  <br/>
+Full board after all ships are placed. Ships are depicted with '#'. It is also randomly determined if the user or computer goes first, as seen at the top:  <br/>
 <img src="https://i.imgur.com/06ekgee.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
