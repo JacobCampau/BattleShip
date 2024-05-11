@@ -20,37 +20,37 @@ Project consist of 6 objects used in conjunction to create a battleship game in 
 
 <p align="center">
 Launch the game: <br/>
-<img src="https://i.imgur.com/MCGUmwZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MCGUmwZ.png" height="80%" width="80%" alt="Battleship Steps"/>
 <br />
 <br />
 Enter a name:  <br/>
-<img src="https://i.imgur.com/4kz51NE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4kz51NE.png" height="80%" width="80%" alt="Battleship Steps"/>
 <br />
 <br />
 Placing ships: <br/>
-<img src="https://i.imgur.com/NvJs7Ox.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NvJs7Ox.png" height="80%" width="80%" alt="Battleship Steps"/>
 <br />
 <br />
 Full board after all ships are placed. Ships are depicted with '#'. It is also randomly determined if the user or computer goes first, as seen at the top:  <br/>
-<img src="https://i.imgur.com/06ekgee.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/06ekgee.png" height="80%" width="80%" alt="Battleship Steps"/>
 <br />
 <br />
 Insert a column and row value for attacks. Hits are marked with an 'x' and misses are '~':  <br/>
-<img src="https://i.imgur.com/wGah9QG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wGah9QG.png" height="80%" width="80%" alt="Battleship Steps"/>
 <br />
 <br />
 Before and after the enemy hits ships. There is a value for how many ships the enemy has hit and 'found':  <br/>
-<img src="https://i.imgur.com/iC6LE2u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/iC6LE2u.png" height="80%" width="80%" alt="Battleship Steps"/>
 <br />
-<img src="https://i.imgur.com/vAHgK6b.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vAHgK6b.png" height="80%" width="80%" alt="Battleship Steps"/>
 <br />
 <br />
 Extra loading screen for when the computer takes too long to place an attack:  <br/>
-<img src="https://i.imgur.com/7aghw75.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7aghw75.png" height="80%" width="80%" alt="Battleship Steps"/>
 <br />
 <br />
 Finished game screen. 'y' repeats the whole game and 'n' exits the program:  <br/>
-<img src="https://i.imgur.com/2JWzWq1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2JWzWq1.png" height="80%" width="80%" alt="Battleship Steps"/>
 </p>
 
 <!--
