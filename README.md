@@ -1,4 +1,4 @@
-<h1>Battleship Game</h1>
+<h1>Battleship</h1>
 
  ### [YouTube Demonstration](link)
 
