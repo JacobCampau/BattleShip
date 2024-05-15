@@ -1,6 +1,6 @@
 <h1>Battleship</h1>
 
- ### [YouTube Demonstration](link)
+ ### [YouTube Demonstration](https://youtu.be/XY5Xd7FujyA)
 
 <h2>Description</h2>
 Project consist of 6 objects used in conjunction to create a battleship game in a terminal. The gamme allows you to select the ship's locations and direction, make attacks on the enemy, and give yourself a player name. Enemy behaviour is determined randomly and is looped until an apporopriate random choice is made.
